@@ -15,3 +15,16 @@ body {
   max-width: 450px;
 }
 
+.main-columns {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.left-column {
+  flex: 1;
+}
+
+.right-column {
+  flex: 1;
+}
