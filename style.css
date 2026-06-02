@@ -1,5 +1,16 @@
-/* Intentionally almost empty.
-   Alex Schekochihin-style pages are basically browser-default HTML. */
-
 body {
+}
+
+.top-block {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.photo-block img {
+  display: block;
+}
+
+.address-block {
+  max-width: 450px;
 }
