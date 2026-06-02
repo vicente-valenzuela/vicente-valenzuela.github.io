@@ -1,31 +1,5 @@
+/* Intentionally almost empty.
+   Alex Schekochihin-style pages are basically browser-default HTML. */
+
 body {
-  background: white;
-  color: black;
-  font-family: Times, "Times New Roman", serif;
-  font-size: medium;
-  margin: 8px;
-}
-
-h1 {
-  font-size: 2em;
-  font-weight: bold;
-  margin: 0.67em 0;
-}
-
-p {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-a {
-  color: #0000ee;
-  text-decoration: underline;
-}
-
-a:visited {
-  color: #551a8b;
-}
-
-img {
-  border: 0;
 }
