@@ -1,24 +1,20 @@
 body {
-  margin: 30px;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 16px;
-  line-height: 1.35;
-  color: black;
   background: white;
-}
-
-main {
-  max-width: 760px;
+  color: black;
+  font-family: Times, "Times New Roman", serif;
+  font-size: medium;
+  margin: 8px;
 }
 
 h1 {
-  font-size: 28px;
-  font-weight: normal;
-  margin: 0 0 12px 0;
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0.67em 0;
 }
 
 p {
-  margin: 0 0 16px 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 a {
@@ -30,13 +26,6 @@ a:visited {
   color: #551a8b;
 }
 
-.photo {
-  max-width: 260px;
-  height: auto;
-}
-
-hr {
+img {
   border: 0;
-  border-top: 1px solid #999;
-  margin: 24px 0;
 }
