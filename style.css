@@ -14,3 +14,7 @@ body {
 .address-block {
   max-width: 450px;
 }
+
+body {
+  background: yellow;
+}
