@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Research - Vicente Valenzuela-Villaseca</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<b><font size="+1">Research</font></b>
+
+<p>
+<a href="index.html">Back</a>
+</p>
+
+<hr>
+
+<p>
+<b>SITE UNDER CONSTRUCTION</b>
+</p>
+
+<p>
+<b>Laboratory astrophysics and high-energy-density plasmas</b><br>
+Write text here.
+</p>
+
+<p>
+<b>Rotating plasmas and accretion physics</b><br>
+Write text here.
+</p>
+
+<p>
+<b>Collisionless shocks, magnetic reconnection, and particle heating</b><br>
+Write text here.
+</p>
+
+<p>
+<b>Plasma diagnostics and inference</b><br>
+Write text here.
+</p>
+
+<p>
+<b>Inertial confinement fusion and laser-plasma physics</b><br>
+Write text here.
+</p>
+
+<hr>
+
+<p>
+<a href="index.html">Back</a>
+</p>
+
+</body>
+</html>
