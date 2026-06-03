@@ -55,6 +55,7 @@ gap: 40px;
 
 .toc-block {
 flex: 1;
+text-align: right;
 }
 
 .cloud-block {
