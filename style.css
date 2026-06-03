@@ -2,17 +2,21 @@ body {
 }
 
 .top-block {
-display: flex;
-align-items: flex-start;
-gap: 30px;
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
 }
 
 .photo-block img {
-display: block;
+  display: block;
 }
 
 .address-block {
-max-width: 450px;
+  max-width: 450px;
+}
+
+.address-block p:first-child {
+  margin-top: 0;
 }
 
 .main-columns {
