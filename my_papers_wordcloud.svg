@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(81,767)" font-size="415" style="fill:rgb(241, 115, 29)">plasma</text>
+<text transform="translate(188,370)" font-size="383" style="fill:rgb(40, 11, 83)">field</text>
+<text transform="translate(591,498)" font-size="164" style="fill:rgb(250, 144, 8)">magnetic</text>
+<text transform="translate(721,894)" font-size="145" style="fill:rgb(56, 9, 98)">shock</text>
+<text transform="translate(153,865)" font-size="97" style="fill:rgb(9, 6, 31)">experiment</text>
+<text transform="translate(1369,212)" font-size="85" style="fill:rgb(135, 33, 107)">flow</text>
+<text transform="translate(29,343)" font-size="82" style="fill:rgb(12, 8, 38)">ion</text>
+<text transform="translate(935,72)" font-size="78" style="fill:rgb(16, 9, 45)">electron</text>
+<text transform="translate(582,103)" font-size="78" style="fill:rgb(246, 250, 150)">density</text>
+<text transform="translate(62,263)" font-size="75" style="fill:rgb(252, 168, 13)">wire</text>
+<text transform="translate(36,439)" font-size="75" style="fill:rgb(17, 10, 48)">measurement</text>
+<text transform="translate(14,66)" font-size="75" style="fill:rgb(49, 10, 92)">simulation</text>
+<text transform="translate(1183,824)" font-size="75" style="fill:rgb(81, 14, 108)">structure</text>
+<text transform="translate(1443,350)" font-size="71" style="fill:rgb(73, 11, 106)">jet</text>
+<text transform="translate(6,108)" font-size="69" style="fill:rgb(251, 184, 29)">array</text>
+<text transform="translate(1156,886)" font-size="69" style="fill:rgb(249, 140, 10)">condition</text>
+<text transform="translate(73,888) rotate(-90)" font-size="67" style="fill:rgb(56, 9, 98)">temperature</text>
+<text transform="translate(1583,771) rotate(-90)" font-size="64" style="fill:rgb(90, 17, 110)">laboratory</text>
+<text transform="translate(578,708) rotate(-90)" font-size="63" style="fill:rgb(163, 44, 97)">proton</text>
+<text transform="translate(73,524)" font-size="50" style="fill:rgb(245, 217, 73)">experimental</text>
+<text transform="translate(1364,136)" font-size="49" style="fill:rgb(246, 215, 70)">effect</text>
+<text transform="translate(321,248)" font-size="48" style="fill:rgb(160, 42, 99)">energy</text>
+<text transform="translate(1310,44)" font-size="48" style="fill:rgb(252, 166, 12)">rotating</text>
+<text transform="translate(19,204)" font-size="46" style="fill:rgb(114, 26, 110)">laser</text>
+<text transform="translate(1257,537)" font-size="46" style="fill:rgb(141, 35, 105)">observed</text>
+<text transform="translate(173,810)" font-size="45" style="fill:rgb(250, 192, 38)">inversion</text>
+<text transform="translate(1336,462)" font-size="45" style="fill:rgb(138, 34, 106)">profile</text>
+<text transform="translate(1348,240)" font-size="45" style="fill:rgb(47, 10, 91)">source</text>
+<text transform="translate(918,332) rotate(-90)" font-size="44" style="fill:rgb(103, 22, 110)">velocity</text>
+<text transform="translate(309,593)" font-size="44" style="fill:rgb(8, 5, 29)">time</text>
+<text transform="translate(562,144)" font-size="44" style="fill:rgb(252, 161, 8)">magnetized</text>
+<text transform="translate(1034,110)" font-size="44" style="fill:rgb(228, 90, 49)">boundary</text>
+<text transform="translate(1080,812) rotate(-90)" font-size="44" style="fill:rgb(252, 178, 22)">interaction</text>
+<text transform="translate(1387,89)" font-size="44" style="fill:rgb(234, 99, 42)">ablation</text>
+<text transform="translate(110,477)" font-size="44" style="fill:rgb(174, 48, 92)">rotation</text>
+<text transform="translate(316,316)" font-size="44" style="fill:rgb(122, 29, 109)">dynamic</text>
+<text transform="translate(587,38)" font-size="44" style="fill:rgb(183, 53, 87)">acceleration</text>
+<text transform="translate(1416,275)" font-size="44" style="fill:rgb(250, 192, 38)">heating</text>
+<text transform="translate(1397,421)" font-size="44" style="fill:rgb(160, 42, 99)">model</text>
+<text transform="translate(33,375)" font-size="44" style="fill:rgb(50, 10, 94)">transport</text>
+<text transform="translate(1020,144)" font-size="44" style="fill:rgb(234, 99, 42)">cooling</text>
+<text transform="translate(325,144)" font-size="44" style="fill:rgb(109, 24, 110)">system</text>
+<text transform="translate(851,403)" font-size="44" style="fill:rgb(52, 10, 95)">scale</text>
+<text transform="translate(14,151)" font-size="34" style="fill:rgb(243, 118, 27)">astrophysical</text>
+<text transform="translate(539,398)" font-size="34" style="fill:rgb(119, 28, 109)">platform</text>
+<text transform="translate(31,290) rotate(-90)" font-size="34" style="fill:rgb(215, 75, 63)">MHD</text>
+<text transform="translate(841,713)" font-size="34" style="fill:rgb(235, 102, 40)">current</text>
+<text transform="translate(582,526)" font-size="34" style="fill:rgb(68, 10, 104)">diagnostic</text>
+<text transform="translate(446,898)" font-size="34" style="fill:rgb(204, 66, 72)">collisionless</text>
+<text transform="translate(751,319)" font-size="33" style="fill:rgb(97, 19, 110)">regime</text>
+</svg>
