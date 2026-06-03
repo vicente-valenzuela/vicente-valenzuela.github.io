@@ -46,3 +46,23 @@ text-align: center;
 .right {
 text-align: right;
 }
+
+.toc-cloud {
+display: flex;
+align-items: flex-start;
+gap: 40px;
+}
+
+.toc-block {
+flex: 1;
+}
+
+.cloud-block {
+flex: 1;
+text-align: right;
+}
+
+.cloud-block img {
+max-width: 100%;
+height: auto;
+}
